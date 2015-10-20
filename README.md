@@ -1,3 +1,3 @@
 # foobar
-my first github
-hello my world
+this is my first github
+I hope it will work
